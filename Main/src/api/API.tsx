@@ -20,3 +20,4 @@ const searchOMDB = async (query: string) => {
 };
 
 export { searchOMDB };
+  
